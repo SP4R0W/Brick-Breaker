@@ -8,7 +8,6 @@ Play the game here: https://sp4r0w.itch.io/brick-breaker
 This is my second project made in Godot v3.5.1. It's a clone of the popular Arkanoid game. It was made using C# and it features 10 different levels and the ability to create your own ones. <br> 
 It also features multiple powerups for the player to collect after destroying bricks. There are 3 types of bricks in the game, each behaving a little differently. <br>
 
-#### WARNING !
 Being my second C# game and me being more and more accustomed to Godot back then, the code wasn't that bad. Of course, it's not gonna be great, but I can definitely see improvement after Platformer. <br>
 I did some small clean up and added comments but I haven't made any significant changes to the code. <br>
 I uploaded this repo and preserved the game for me to look at how much I improve over time. Improving the code now, with my current knowledge defeats the point. <br>
